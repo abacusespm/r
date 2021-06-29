@@ -1,27 +1,27 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-05-21T07:53:43-03:00"
-    },
-    {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-21T07:53:45-03:00"
+      "last_modified": "2021-06-29T17:48:38-03:00"
     },
     {
       "path": "index.html",
-      "title": "Ensaios com o R",
+      "title": "Abacus ESPM",
       "description": "Ideias, projetos, aulas... \n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-21T07:53:45-03:00"
+      "last_modified": "2021-06-29T17:48:41-03:00"
+    },
+    {
+      "path": "log.html",
+      "title": "Fundamentos de Lógica",
+      "description": "Nesta página você encontrará o link para vídeos e simulados sobre lógica com foco em processos seletivos para estágios e trainees das grandes empresas. ",
+      "author": [],
+      "contents": "\nSimulados\nNos links abaixo encontrará simulados com foco em seu treinamento.\nImediatamente após o término envie um e-mail para a Abacus solicitando seus pontos e o gabarito.\nLógica para preparatórios 1\nLógica para preparatórios 2\nLógica para preparatórios 3\nLógica para preparatórios 4\nLógica para preparatórios 5\n\n\n\n",
+      "last_modified": "2021-06-29T17:48:47-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
