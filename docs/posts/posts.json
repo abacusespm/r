@@ -35,23 +35,4 @@
     "last_modified": "2021-05-18T11:37:18-03:00",
     "input_file": {}
   },
-  {
-    "path": "posts/2021-05-21-shiny-iniciais/",
-    "title": "This is a test post with a Shiny App",
-    "description": "Shiny app",
-    "author": [
-      {
-        "name": "Cengiz Zopluoglu",
-        "url": {}
-      }
-    ],
-    "date": "2020-01-07",
-    "categories": [
-      "2019"
-    ],
-    "contents": "\nThis is a post to test how to embed external Shiny apps in html posts, and whether or not it works.\nBelow is a shiny app I developed long time ago. I deployed it in a Shiny Server on cloud. If this works, I plan to develop interactive shiny apps for the concepts I am teaching and then prepare my course notes as interactive web pages with these apps embedded. A big dream I have no idea how long it would take me to complete.\nIf you want to test whether or not the app is working, enter your name and up to two more names (with the first letter capitalized) and it should create a trend plot based on a database from Social Security Administration. You should change the y-axis from the side bar to zoom for the trend of rare names.\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-05-22T00:39:11-03:00",
-    "input_file": "shiny-iniciais.utf8.md"
-  }
 ]
